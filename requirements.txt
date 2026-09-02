@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-anthropic
+langchain-cohere
+langchain-pinecone
+pinecone-client
+rank_bm25
+fastapi
+uvicorn
+python-dotenv
+langchain-text-splitters
